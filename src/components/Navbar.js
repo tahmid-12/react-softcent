@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Container, Col } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 import Logo from '../images/Logo.png';
 
 function Navbar() {
