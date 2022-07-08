@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Content from './components/Content';
 import Customers from './components/Customers';
+import Work from './components/Work';
 import './App.css';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Home />
       <Content />
       <Customers />
+      <Work />
     </DIV>
   );
 }

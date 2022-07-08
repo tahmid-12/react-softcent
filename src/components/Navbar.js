@@ -47,9 +47,9 @@ const NAVDIV = styled.div`
     align-items: center;
     margin-left: 30px;
     ul{
+        font-family: 'Nunito';
         list-style-type: none;
         display: flex;
-        font-family: Nunito;
         text-transform: uppercase;
     }
     li{
